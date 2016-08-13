@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Select the desired search type">
+        <menu>
+            <item
+                android:id="@+id/nav_dish"
+                android:icon="@drawable/food_icon1"
+                android:title="Find by dish name"
+                android:checkable="true"/>
+            <item
+                android:id="@+id/nav_type"
+                android:icon="@drawable/pizza_nav_icon2"
+                android:title="Find by dish type"
+                android:checkable="true"/>
+            <item
+                android:id="@+id/nav_rstrnt"
+                android:icon="@drawable/restaurant_element_icon"
+                android:title="Find by restaurant name"
+                android:checkable="true"/>
+        </menu>
+    </item>
+    <item android:title="Favourites">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Open favourites List"/>
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send"/>
+            <item
+                android:id="@+id/nav_manage"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="Tools"/>
+        </menu>
+    </item>
+
+</menu>

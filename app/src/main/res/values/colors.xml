@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#B0171F</color>
+    <color name="colorPrimaryDark">#242121</color>
+    <color name="colorAccent">#B0171F</color>
+    <color name="colorDishesFragmentGreen">#A2CD5A</color>
+    <color name="colorTypesFragmentRed">#FF0000</color>
+    <color name="colorRestaurantsFragmentBlue">#00F5FF</color>
+    <color name="textBlackColor">#242121</color>
+</resources>
